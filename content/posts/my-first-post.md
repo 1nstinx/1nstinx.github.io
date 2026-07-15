@@ -4,8 +4,14 @@ date: 2026-07-15T16:40:00+03:00
 draft: false
 ---
 
-## Welcome to my new blog!
+## Hello, blog
 
-This is my very first post built with **Hugo** and the **PaperMod** theme. 
+*-to be added to about me-*
+My name is Johnny and I work as a QA Engineer with 10 years of experience.
 
-I'm hosting this entirely for free on GitHub Pages. Pretty cool, right?
+Starting at EA as a wee tester, over my tenure there I've 
+
+
+*-to be added to about me-*
+
+

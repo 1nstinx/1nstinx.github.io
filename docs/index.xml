@@ -13,9 +13,11 @@
       <link>https://1nstinx.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 15 Jul 2026 16:40:00 +0300</pubDate>
       <guid>https://1nstinx.github.io/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-my-new-blog&#34;&gt;Welcome to my new blog!&lt;/h2&gt;
-&lt;p&gt;This is my very first post built with &lt;strong&gt;Hugo&lt;/strong&gt; and the &lt;strong&gt;PaperMod&lt;/strong&gt; theme.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m hosting this entirely for free on GitHub Pages. Pretty cool, right?&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;hello-blog&#34;&gt;Hello, blog&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;-to be added to about me-&lt;/em&gt;
+My name is Johnny and I work as a QA Engineer with 10 years of experience.&lt;/p&gt;
+&lt;p&gt;Starting at EA as a wee tester, over my tenure there I&amp;rsquo;ve&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;-to be added to about me-&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
