@@ -8,3 +8,7 @@ publishDir = "docs"
     defaultTheme = "auto" # automatically switches between dark/light mode
     showShareButtons = true
     showCodeCopyButtons = true
+
+# Disables SRI fingerprinting to prevent browsers from blocking stylesheets on GitHub Pages
+[params.assets]
+    disableFingerprinting = true
