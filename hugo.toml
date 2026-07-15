@@ -1,6 +1,6 @@
 baseURL = 'https://1nstinx.github.io/'
 languageCode = 'en-us'
-title = "1nstinx's Blog"
+title = "1nstinx's Blog!"
 theme = "PaperMod"
 publishDir = "docs"
 
