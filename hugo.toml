@@ -12,3 +12,6 @@ publishDir = "docs"
 # Disables SRI fingerprinting to prevent browsers from blocking stylesheets on GitHub Pages
 [params.assets]
     disableFingerprinting = true
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
