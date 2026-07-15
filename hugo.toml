@@ -2,6 +2,7 @@ baseURL = 'https://1nstinx.github.io/'
 languageCode = 'en-us'
 title = "1nstinx's Blog"
 theme = "PaperMod"
+publishDir = "docs"
 
 [params]
     defaultTheme = "auto" # automatically switches between dark/light mode
