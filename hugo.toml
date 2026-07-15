@@ -15,3 +15,9 @@ publishDir = "docs"
 
 [outputs]
     home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "search/"
+    weight = 10
