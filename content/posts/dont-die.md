@@ -50,4 +50,11 @@ The reassurance of purpose given by the belief in a higher power, purpose.
 
 ### 2001: A Space Oddisey
 
+"All watched over by machines of loving grace."
+
+The ultimate purpose of the human as the maintainer of technology and it is that technology which can and will truly have the experience.
+
+The slave-maintainers, our prayers in the form of 24 hour shifts in the data center, our sacrifices in the form of power re-routing and water supply frugalism.
+
+
 
