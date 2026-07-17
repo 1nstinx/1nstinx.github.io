@@ -10,7 +10,7 @@ title = 'Dont Die'
 
 As experience of reality becomes more and more digitalized, one can feel a greater and greater amount of the spectrum of human emotion removed from the ailments and dangers of the "real" world.
 
-###
+### Orpheus in The Machine
 The concept of skin in the game and why we like watching sports.
 
 The heros of our past had to face perils in the "real world" where injury and death are inflicted upon the protagonist in their intense totality.
