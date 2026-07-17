@@ -40,21 +40,58 @@ At the same time, these masses of people now securely trapped with their simple 
 "Our maximum reach outwards.... Praise be to God!"
 The reassurance of purpose given by the belief in a higher power, purpose.
 
-
-
-
-
-
-
-
-
 ### 2001: A Space Oddisey
 
 "All watched over by machines of loving grace."
 
+
+*-TO EXPAND WITH JUDGE MOVIES TAKE ON IT-*
+
 The ultimate purpose of the human as the maintainer of technology and it is that technology which can and will truly have the experience.
 
 The slave-maintainers, our prayers in the form of 24 hour shifts in the data center, our sacrifices in the form of power re-routing and water supply frugalism.
+
+
+### r/acc vs l/acc
+
+Can a project full of automation and technological expansion be reconcilled with planetary boundaries?
+
+Right Accelerationism is indiferent to ecological limits because it is indiferent to human survival.
+
+Nick Land's 'Meltdown' is not a problem to be solved, but a process to be affirmed.
+
+Right Accelerationists view capitalism's autonomy not as a problem, but a feature.
+
+"A nova of heart that will turn us all back to the very forgotten faces of who we are."
+
+Left Accelerationism is more complex.
+
+It's main plague is the Jevons paradox, which posits that: when technological improvements reduce the cost of using a resource, demand increases, offsetting the efficiency gains.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
