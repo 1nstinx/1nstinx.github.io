@@ -77,6 +77,17 @@ Deleuze & Guatari expose the fact that capitalism absorbs the energy that it sha
 This point, though key, remains mute for The Techno Capitalist machine that Land envisions.
 
 
+One may recall the now notroious troglodite hesitation by Peter Thield when posed with the question wheter or not he would like humanity to endure.
+
+This falls right in line with the r/acc flavor, but one can't help but wonder: why in the fuck can't he pretend. Why can't he say one thing, but actually do another? What's up with this sincerity?
+
+Social maladaption seems to be some kind of personality trate that permiates through each one of these techno-capitalist-overlords.
+
+They can do it right in our faces and under our noses. Mocking us that we can't do anything about it. (See Epstein files);
+
+
+
+
 
 
 
