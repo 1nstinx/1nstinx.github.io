@@ -23,4 +23,31 @@ The capacity for abstraction has us feeling fulfilled by experiences which objec
 
 The transformatin of what and/or who we strive to be has changed.
 
+### Equilibrium with ecology & Progress
+
+The convergence of The Limits to Growth and l/acc, r/acc as well as Sillicon Valley Techno Optimism is in the fact that they all point their horizons beyond current capitalism status quo.
+
+Perhaps it is through this enchantment of the hero's journey in the virtual that will allow us to decouple human welfare from material growth.
+
+An adequate, but not excessive standard of living becomes feasibly apealing when fulfillment can be found in the virtual.
+
+
+### The Bait and Switch
+
+At the same time, these masses of people now securely trapped with their simple needs and wants easily met in the phisical, while their complex needs and wants *-ADD MORE. COMPLEX YAYA-*are safely isolated to the virtual, incapable of apply any kind of effect on the phisical kindom of our techno-lords.
+
+#### Perhaps a position inherit to human experience
+"Our maximum reach outwards.... Praise be to God!"
+The reassurance of purpose given by the belief in a higher power, purpose.
+
+
+
+
+
+
+
+
+
+### 2001: A Space Oddisey
+
 
