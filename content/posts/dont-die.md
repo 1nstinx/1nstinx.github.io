@@ -70,7 +70,11 @@ It's main plague is the Jevons paradox, which posits that: when technological im
 
 
 
+### Deteritorialization is always acompanied by reteritorialization
 
+Deleuze & Guatari expose the fact that capitalism absorbs the energy that it shaves off the world with its Deteritorialization, through reteritorialization.
+
+This point, though key, remains mute for The Techno Capitalist machine that Land envisions.
 
 
 
